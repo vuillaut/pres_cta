@@ -1,7 +1,8 @@
-env: pres_cta
+name: pres_cta
 
 channels:
   - conda-forge
 dependencies:
-  - ctapipe
+  - numpy < 1.23
+  - ctapipe = 0.12
   - jupyterlab
