@@ -1,0 +1,7 @@
+env: pres_cta
+
+channels:
+  - conda-forge
+dependencies:
+  - ctapipe
+  - jupyterlab
