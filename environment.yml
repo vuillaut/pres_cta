@@ -2,6 +2,7 @@ name: pres_cta
 
 channels:
   - conda-forge
+  - bokeh
 dependencies:
   - numpy < 1.23
   - ctapipe = 0.12
